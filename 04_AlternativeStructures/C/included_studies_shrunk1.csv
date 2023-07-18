@@ -1,0 +1,55 @@
+author,record.id,continent,cohort.end,box.start,box.end,n.of.y,d.of.y,x.months,data type,model.transition,repeats,effective.n,effective.d,notes,sensitivities,Transition
+Hong Kong Chest Service,#11992,Asia,1981,cxr.pos.micro.neg.sympt.mixed,cxr.pos.micro.pos.sympt.unk,40,176,3,time to event,Min-Inf,8,5,22,,,Infmin_infI
+Hong Kong Chest Service,#11992,Asia,1981,cxr.pos.micro.neg.sympt.mixed,cxr.pos.micro.pos.sympt.unk,49,176,6,time to event,Min-Inf,8,6,22,,,Infmin_infI
+Hong Kong Chest Service,#11992,Asia,1981,cxr.pos.micro.neg.sympt.mixed,cxr.pos.micro.pos.sympt.unk,61,176,12,time to event,Min-Inf,8,8,22,,,Infmin_infI
+Hong Kong Chest Service,#11992,Asia,1981,cxr.pos.micro.neg.sympt.mixed,cxr.pos.micro.pos.sympt.unk,67,176,18,time to event,Min-Inf,8,8,22,,,Infmin_infI
+Hong Kong Chest Service,#11992,Asia,1981,cxr.pos.micro.neg.sympt.mixed,cxr.pos.micro.pos.sympt.unk,69,176,24,time to event,Min-Inf,8,9,22,,,Infmin_infI
+Hong Kong Chest Service,#11992,Asia,1981,cxr.pos.micro.neg.sympt.mixed,cxr.pos.micro.pos.sympt.unk,70,176,30,time to event,Min-Inf,8,9,22,,,Infmin_infI
+Hong Kong Chest Service,#11992,Asia,1981,cxr.pos.micro.neg.sympt.mixed,cxr.pos.micro.pos.sympt.unk,71,176,36,time to event,Min-Inf,8,9,22,,,Infmin_infI
+Hong Kong Chest Service,#11992,Asia,1981,cxr.pos.micro.neg.sympt.mixed,cxr.pos.micro.pos.sympt.unk,71,176,60,time to event,Min-Inf,8,9,22,,,Infmin_infI
+Tuberculosis Society of Scotland,#6897,Europe,1959,cxr.pos.micro.neg.sympt.neg,cxr.pos.micro.pos.sympt.unk,9,95,24,cross sectional,Min-Sub,1,9,95,assume lack of sysmptom persists,Min-Inf,Submin
+Orrego Puelma,#5849,South America,1945,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.pos.sympt.unk,18,67,24,cross sectional,Min-Inf,1,18,67,,,InfminI
+Beeuwkes,#70,North America,1938,cxr.pos.micro.neg.sympt.neg,cxr.unk.micro.pos.sympt.pos,16,122,33,cross sectional,Min-Clin,1,16,122,merged 2 groups exhibiting same start and end,,Clinmin
+Beeuwkes,#70,North America,1938,cxr.pos.micro.pos.sympt.pos,cxr.unk.micro.neg.sympt.unk,10,28,33,cross sectional,Clin-Min,1,10,28,,,Minclin
+National Tuberculosis Insitute,#204,Asia,1968,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.pos.sympt.unk,23,329,18,cross sectional,Min-Inf,2,12,165,,,InfminI
+National Tuberculosis Insitute,#204,Asia,1968,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.pos.sympt.unk,36,271,60,cross sectional,Min-Inf,2,18,136,,,InfminI
+National Tuberculosis Insitute,#204,Asia,1968,cxr.pos.micro.pos.sympt.unk,cxr.pos.micro.neg.sympt.unk,86,269,18,cross sectional,Inf-Min,2,43,135,,,MininfI
+National Tuberculosis Insitute,#204,Asia,1968,cxr.pos.micro.pos.sympt.unk,cxr.pos.micro.neg.sympt.unk,70,178,36,cross sectional,Inf-Min,2,35,89,,,MininfI
+Aneja,#11989,Asia,1977,cxr.pos.micro.neg.sympt.pos,cxr.pos.micro.pos.sympt.unk,21,110,12,cross sectional,Min-Clin,1,21,110,assume symptoms persist,Min-Inf,Clinmin
+Bobrowitz,#7561,North America,1945,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.pos.sympt.unk,26,191,60,cross sectional,Min-Inf,1,26,191,,,InfminI
+Borgen,#8061,Europe,1949,cxr.pos.micro.neg.sympt.pos,cxr.pos.micro.pos.sympt.pos,4,144,30,cross sectional,Min-Clin,1,4,144,merged 2 groups exhibiting same start and end,,Clinmin
+Norregaard,#11954,Europe,1985,cxr.pos.micro.neg.sympt.mixed,cxr.pos.micro.pos.sympt.neg,6,28,60,time to event,Min-Sub,1,6,28,,,Submin_sub
+Norregaard,#11954,Europe,1985,cxr.pos.micro.neg.sympt.mixed,cxr.pos.micro.pos.sympt.pos,2,28,60,time to event,Min-Clin,1,2,28,,,Clinmin_clin
+Cowie,#11952,Africa,1984,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.pos.sympt.unk,88,152,58,time to event,Min-Inf,1,88,152,,,Infmin_infI
+Puffer,#74,North America,1943,cxr.pos.micro.neg.sympt.neg,cxr.pos.micro.pos.sympt.pos,19,528,62,cross sectional,Min-Clin,1,19,528,merged 2 groups exhibiting same start and end,,Clinmin
+Puffer,#74,North America,1943,cxr.pos.micro.pos.sympt.pos,cxr.pos.micro.neg.sympt.neg,92,384,62,cross sectional,Clin-Min,1,92,384,,,Minclin
+Marshall,#10295,Europe,1948,cxr.pos.micro.pos.sympt.pos,cxr.pos.micro.neg.sympt.unk,2,52,6,time to event,Clin-Min,1,2,52,,,Minclin
+Anastasatu,#12758,Europe,1985,cxr.pos.micro.neg.sympt.neg,cxr.pos.micro.pos.sympt.unk,6,143,24,time to event,Min-Sub,1,6,143,assume lack of sysmptom persists,Min-Inf,Submin_sub
+Downes,#205,North America,1935,cxr.pos.micro.pos.sympt.pos,cxr.pos.micro.neg.sympt.neg,27,342,12,time to event,Clin-Min,5,5,68,,,Minclin_min
+Downes,#205,North America,1935,cxr.pos.micro.pos.sympt.pos,cxr.pos.micro.neg.sympt.neg,104,342,24,time to event,Clin-Min,5,21,68,,,Minclin_min
+Downes,#205,North America,1935,cxr.pos.micro.pos.sympt.pos,cxr.pos.micro.neg.sympt.neg,140,342,36,time to event,Clin-Min,5,28,68,,,Minclin_min
+Downes,#205,North America,1935,cxr.pos.micro.pos.sympt.pos,cxr.pos.micro.neg.sympt.neg,158,342,48,time to event,Clin-Min,5,32,68,,,Minclin_min
+Downes,#205,North America,1935,cxr.pos.micro.pos.sympt.pos,cxr.pos.micro.neg.sympt.neg,171,342,60,time to event,Clin-Min,5,34,68,,,Minclin_min
+Pamra,#12764,Asia,1968,cxr.pos.micro.neg.sympt.neg,cxr.pos.micro.pos.sympt.pos,2,178,72,time to event,Min-Clin,1,2,178,,,Clinmin_clin
+Pamra,#12764,Asia,1968,cxr.pos.micro.neg.sympt.neg,cxr.pos.micro.pos.sympt.neg,55,178,72,time to event,Min-Sub,1,55,178,,,Submin_sub
+Okada,#12763,Asia,2004,cxr.pos.micro.neg.sympt.neg,cxr.pos.micro.pos.sympt.unk,28,309,24,cross sectional,Min-Sub,1,28,309,split group by symptoms dependent on proportion found in prevalence survey,,Submin
+Okada,#12763,Asia,2004,cxr.pos.micro.neg.sympt.neg,cxr.pos.micro.pos.sympt.pos,23,309,24,time to event,Min-Clin,1,23,309,added in 39% (18) of those picked up at 2 year follow-up using known subclinical proportion at prevalence surveys,,Clinmin_clin
+Sikand,#12762,Asia,1958,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.pos.sympt.unk,38,319,12,time to event,Min-Inf,1,38,319,,,Infmin_infI
+Breu,#9080,Europe,1952,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.pos.sympt.unk,48,904,25.5,cross sectional,Min-Inf,1,48,904,,,InfminI
+Manser,#8779,Europe,1951,cxr.pos.micro.pos.sympt.unk,cxr.pos.micro.neg.sympt.unk,15,40,6,cross sectional,Clin-Min,1,15,40,,,Minclin
+Lincoln,#9048.1,North America,1947,cxr.pos.micro.mixed.sympt.unk,cxr.pos.micro.neg.sympt.unk,45,134,24,time to event,Clin-Min,6,8,22,majority tested were micro pos and all reported as active baseed on NTA definitions,,Minclin_min
+Lincoln,#9048.1,North America,1947,cxr.pos.micro.mixed.sympt.unk,cxr.pos.micro.neg.sympt.unk,71,134,36,time to event,Clin-Min,6,12,22,majority tested were micro pos and all reported as active baseed on NTA definitions,,Minclin_min
+Lincoln,#9048.1,North America,1947,cxr.pos.micro.mixed.sympt.unk,cxr.pos.micro.neg.sympt.unk,80,134,48,time to event,Clin-Min,6,13,22,majority tested were micro pos and all reported as active baseed on NTA definitions,,Minclin_min
+Lincoln,#9048.1,North America,1947,cxr.pos.micro.mixed.sympt.unk,cxr.pos.micro.neg.sympt.unk,83,134,60,time to event,Clin-Min,6,14,22,majority tested were micro pos and all reported as active baseed on NTA definitions,,Minclin_min
+Lincoln,#9048.1,North America,1947,cxr.pos.micro.mixed.sympt.unk,cxr.pos.micro.neg.sympt.unk,86,134,72,time to event,Clin-Min,6,14,22,majority tested were micro pos and all reported as active baseed on NTA definitions,,Minclin_min
+Lincoln,#9048.1,North America,1947,cxr.pos.micro.mixed.sympt.unk,cxr.pos.micro.neg.sympt.unk,87,134,84,time to event,Clin-Min,6,15,22,majority tested were micro pos and all reported as active baseed on NTA definitions,,Minclin_min
+Lincoln,#9048.1,North America,1947,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.relapse.sympt.unk,15,314,24,time to event,Min-Clin,5,3,63,majority tested were micro pos and all reported as active baseed on NTA definitions,,Clinmin_clin
+Lincoln,#9048.1,North America,1947,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.relapse.sympt.unk,25,314,36,time to event,Min-Clin,5,5,63,,,Clinmin_clin
+Lincoln,#9048.1,North America,1947,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.relapse.sympt.unk,32,314,48,time to event,Min-Clin,5,6,63,,,Clinmin_clin
+Lincoln,#9048.1,North America,1947,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.relapse.sympt.unk,35,314,60,time to event,Min-Clin,5,7,63,,,Clinmin_clin
+Lincoln,#9048.1,North America,1947,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.relapse.sympt.unk,36,314,72,time to event,Min-Clin,5,7,63,,,Clinmin_clin
+Alling,#9048.2,North America,1948,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.relapse.sympt.unk,8,58,60,time to event,Min-Clin,2,4,29,,,Clinmin_clin
+Alling,#9048.2,North America,1948,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.relapse.sympt.unk,10,58,156,time to event,Min-Clin,2,5,29,,,Clinmin_clin
+Frimodt-Moller,#12825,Asia,1961,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.pos.sympt.unk,11,86,12,time to event,Min-Inf,3,4,29,,,Infmin_infI
+Frimodt-Moller,#12825,Asia,1961,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.pos.sympt.unk,18,86,24,time to event,Min-Inf,3,6,29,,,Infmin_infI
+Frimodt-Moller,#12825,Asia,1961,cxr.pos.micro.neg.sympt.unk,cxr.pos.micro.pos.sympt.unk,25,86,36,time to event,Min-Inf,3,8,29,,,Infmin_infI
